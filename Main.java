@@ -4,6 +4,6 @@ public class Main
     {
         System.out.println("Последние президенты США:");
         System.out.println("Джордж Буш-мл");
-
+        System.out.println("Барак Обама");
     }
 }
