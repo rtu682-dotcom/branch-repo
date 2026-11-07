@@ -8,6 +8,7 @@ class Main
         System.out.print("commit №6: ветка main");
         System.out.print("commit №6: ветка main");
         System.out.print("commit №6: ветка main");
+        //комментарий для финального коммита
 
     }
 }
