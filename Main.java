@@ -6,5 +6,6 @@ public class Main
         System.out.println("Джордж Буш-мл");
         System.out.println("Барак Обама");
         System.out.println("Дональд Трамп");
+        System.out.println("Джо Байден");
     }
 }
